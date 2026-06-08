@@ -31,6 +31,7 @@ export default function Page() {
           <p className="text-gray-400 text-end text-sm">Open Source</p>
         </div>
       </div>
+      <p className="text-xs mt-12 text-end lowercase">{ICON_LIST.length} total </p>
       <div className="grid grid-cols-4 mt-4">
 
       

@@ -14,6 +14,13 @@ import Accessibility from "@/icons/accessibility";
 import Shell from "@/icons/shell";
 import AArrowDown from "@/icons/a-arrow-down";
 import AArrowUp from "@/icons/a-arrow-up";
+import Ampersand from "@/icons/ampersand";
+import Anchor from "@/icons/anchor";
+import Angry from "@/icons/angry";
+import Annoyed from "@/icons/annoyed";
+import Antenna from "@/icons/antenna";
+import Apple from "@/icons/apple";
+import Archive from "@/icons/archive";
 
 type IconListItem = {
   icon: React.ElementType;
@@ -85,5 +92,33 @@ export const ICON_LIST: IconListItem[] = [
     {
         icon: AArrowUp,
         title: "a-arrow-up"
+    },
+    {
+        icon: Ampersand,
+        title:"ampersand"
+    },
+    {
+        icon:Anchor,
+        title:"anchor"
+    },
+    {
+        icon: Angry,
+        title: "angry"
+    },
+    {
+        icon: Annoyed,
+        title:'annoyed'
+    },
+    {
+        icon: Antenna,
+        title: 'antenna'
+    },
+    {
+        icon: Apple,
+        title:'apple'
+    },
+    {
+        icon: Archive,
+        title:'archive'
     }
 ].sort((a, b) => a.title.localeCompare(b.title));

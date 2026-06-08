@@ -24,7 +24,7 @@ export default function RootLayout({
       lang="en"
       className={`${bricolage.className} h-full antialiased`}
     >
-      <body className="min-h-full bg-[#F3F3F2]/30 flex flex-col max-w-200 mx-auto">
+      <body className="min-h-full bg-[#F3F3F2]/30 flex flex-col max-w-200 mx-auto pb-20">
         <Navbar/>
         {children}</body>
     </html>
