@@ -289,6 +289,139 @@
       ]
     },
     {
+      "name": "ampersand",
+      "type": "registry:ui",
+      "registryDependencies": [],
+      "dependencies": [
+        "motion"
+      ],
+      "devDependencies": [],
+      "files": [
+        {
+          "path": "icons/ampersand.tsx",
+          "type": "registry:ui"
+        },
+        {
+          "path": "utils/base-icon.tsx",
+          "type": "registry:ui"
+        }
+      ]
+    },
+    {
+      "name": "anchor",
+      "type": "registry:ui",
+      "registryDependencies": [],
+      "dependencies": [
+        "motion"
+      ],
+      "devDependencies": [],
+      "files": [
+        {
+          "path": "icons/anchor.tsx",
+          "type": "registry:ui"
+        },
+        {
+          "path": "utils/base-icon.tsx",
+          "type": "registry:ui"
+        }
+      ]
+    },
+    {
+      "name": "angry",
+      "type": "registry:ui",
+      "registryDependencies": [],
+      "dependencies": [
+        "motion"
+      ],
+      "devDependencies": [],
+      "files": [
+        {
+          "path": "icons/angry.tsx",
+          "type": "registry:ui"
+        },
+        {
+          "path": "utils/base-icon.tsx",
+          "type": "registry:ui"
+        }
+      ]
+    },
+    {
+      "name": "annoyed",
+      "type": "registry:ui",
+      "registryDependencies": [],
+      "dependencies": [
+        "motion"
+      ],
+      "devDependencies": [],
+      "files": [
+        {
+          "path": "icons/annoyed.tsx",
+          "type": "registry:ui"
+        },
+        {
+          "path": "utils/base-icon.tsx",
+          "type": "registry:ui"
+        }
+      ]
+    },
+    {
+      "name": "antenna",
+      "type": "registry:ui",
+      "registryDependencies": [],
+      "dependencies": [
+        "motion"
+      ],
+      "devDependencies": [],
+      "files": [
+        {
+          "path": "icons/antenna.tsx",
+          "type": "registry:ui"
+        },
+        {
+          "path": "utils/base-icon.tsx",
+          "type": "registry:ui"
+        }
+      ]
+    },
+    {
+      "name": "apple",
+      "type": "registry:ui",
+      "registryDependencies": [],
+      "dependencies": [
+        "motion"
+      ],
+      "devDependencies": [],
+      "files": [
+        {
+          "path": "icons/apple.tsx",
+          "type": "registry:ui"
+        },
+        {
+          "path": "utils/base-icon.tsx",
+          "type": "registry:ui"
+        }
+      ]
+    },
+    {
+      "name": "archive",
+      "type": "registry:ui",
+      "registryDependencies": [],
+      "dependencies": [
+        "motion"
+      ],
+      "devDependencies": [],
+      "files": [
+        {
+          "path": "icons/archive.tsx",
+          "type": "registry:ui"
+        },
+        {
+          "path": "utils/base-icon.tsx",
+          "type": "registry:ui"
+        }
+      ]
+    },
+    {
       "name": "shell",
       "type": "registry:ui",
       "registryDependencies": [],
