@@ -1,0 +1,311 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry.json",
+  "name": "itshover",
+  "homepage": "https://itshover.com",
+  "items": [
+    {
+      "name": "a-arrow-down",
+      "type": "registry:ui",
+      "registryDependencies": [],
+      "dependencies": [
+        "motion"
+      ],
+      "devDependencies": [],
+      "files": [
+        {
+          "path": "icons/a-arrow-down.tsx",
+          "type": "registry:ui"
+        },
+        {
+          "path": "utils/base-icon.tsx",
+          "type": "registry:ui"
+        }
+      ]
+    },
+    {
+      "name": "a-arrow-up",
+      "type": "registry:ui",
+      "registryDependencies": [],
+      "dependencies": [
+        "motion"
+      ],
+      "devDependencies": [],
+      "files": [
+        {
+          "path": "icons/a-arrow-up.tsx",
+          "type": "registry:ui"
+        },
+        {
+          "path": "utils/base-icon.tsx",
+          "type": "registry:ui"
+        }
+      ]
+    },
+    {
+      "name": "accessibility",
+      "type": "registry:ui",
+      "registryDependencies": [],
+      "dependencies": [
+        "motion"
+      ],
+      "devDependencies": [],
+      "files": [
+        {
+          "path": "icons/accessibility.tsx",
+          "type": "registry:ui"
+        },
+        {
+          "path": "utils/base-icon.tsx",
+          "type": "registry:ui"
+        }
+      ]
+    },
+    {
+      "name": "activity",
+      "type": "registry:ui",
+      "registryDependencies": [],
+      "dependencies": [
+        "motion"
+      ],
+      "devDependencies": [],
+      "files": [
+        {
+          "path": "icons/activity.tsx",
+          "type": "registry:ui"
+        },
+        {
+          "path": "utils/base-icon.tsx",
+          "type": "registry:ui"
+        }
+      ]
+    },
+    {
+      "name": "air-vent",
+      "type": "registry:ui",
+      "registryDependencies": [],
+      "dependencies": [
+        "motion"
+      ],
+      "devDependencies": [],
+      "files": [
+        {
+          "path": "icons/air-vent.tsx",
+          "type": "registry:ui"
+        },
+        {
+          "path": "utils/base-icon.tsx",
+          "type": "registry:ui"
+        }
+      ]
+    },
+    {
+      "name": "airplay",
+      "type": "registry:ui",
+      "registryDependencies": [],
+      "dependencies": [
+        "motion"
+      ],
+      "devDependencies": [],
+      "files": [
+        {
+          "path": "icons/airplay.tsx",
+          "type": "registry:ui"
+        },
+        {
+          "path": "utils/base-icon.tsx",
+          "type": "registry:ui"
+        }
+      ]
+    },
+    {
+      "name": "alarm-clock",
+      "type": "registry:ui",
+      "registryDependencies": [],
+      "dependencies": [
+        "motion"
+      ],
+      "devDependencies": [],
+      "files": [
+        {
+          "path": "icons/alarm-clock.tsx",
+          "type": "registry:ui"
+        },
+        {
+          "path": "utils/base-icon.tsx",
+          "type": "registry:ui"
+        }
+      ]
+    },
+    {
+      "name": "alarm-clock-check",
+      "type": "registry:ui",
+      "registryDependencies": [],
+      "dependencies": [
+        "motion"
+      ],
+      "devDependencies": [],
+      "files": [
+        {
+          "path": "icons/alarm-clock-check.tsx",
+          "type": "registry:ui"
+        },
+        {
+          "path": "utils/base-icon.tsx",
+          "type": "registry:ui"
+        }
+      ]
+    },
+    {
+      "name": "alarm-clock-minus",
+      "type": "registry:ui",
+      "registryDependencies": [],
+      "dependencies": [
+        "motion"
+      ],
+      "devDependencies": [],
+      "files": [
+        {
+          "path": "icons/alarm-clock-minus.tsx",
+          "type": "registry:ui"
+        },
+        {
+          "path": "utils/base-icon.tsx",
+          "type": "registry:ui"
+        }
+      ]
+    },
+    {
+      "name": "alarm-clock-off",
+      "type": "registry:ui",
+      "registryDependencies": [],
+      "dependencies": [
+        "motion"
+      ],
+      "devDependencies": [],
+      "files": [
+        {
+          "path": "icons/alarm-clock-off.tsx",
+          "type": "registry:ui"
+        },
+        {
+          "path": "utils/base-icon.tsx",
+          "type": "registry:ui"
+        }
+      ]
+    },
+    {
+      "name": "alarm-smoke",
+      "type": "registry:ui",
+      "registryDependencies": [],
+      "dependencies": [
+        "motion"
+      ],
+      "devDependencies": [],
+      "files": [
+        {
+          "path": "icons/alarm-smoke.tsx",
+          "type": "registry:ui"
+        },
+        {
+          "path": "utils/base-icon.tsx",
+          "type": "registry:ui"
+        }
+      ]
+    },
+    {
+      "name": "album",
+      "type": "registry:ui",
+      "registryDependencies": [],
+      "dependencies": [
+        "motion"
+      ],
+      "devDependencies": [],
+      "files": [
+        {
+          "path": "icons/album.tsx",
+          "type": "registry:ui"
+        },
+        {
+          "path": "utils/base-icon.tsx",
+          "type": "registry:ui"
+        }
+      ]
+    },
+    {
+      "name": "align-end-horizontal",
+      "type": "registry:ui",
+      "registryDependencies": [],
+      "dependencies": [
+        "motion"
+      ],
+      "devDependencies": [],
+      "files": [
+        {
+          "path": "icons/align-end-horizontal.tsx",
+          "type": "registry:ui"
+        },
+        {
+          "path": "utils/base-icon.tsx",
+          "type": "registry:ui"
+        }
+      ]
+    },
+    {
+      "name": "align-end-vertical",
+      "type": "registry:ui",
+      "registryDependencies": [],
+      "dependencies": [
+        "motion"
+      ],
+      "devDependencies": [],
+      "files": [
+        {
+          "path": "icons/align-end-vertical.tsx",
+          "type": "registry:ui"
+        },
+        {
+          "path": "utils/base-icon.tsx",
+          "type": "registry:ui"
+        }
+      ]
+    },
+    {
+      "name": "ambulance",
+      "type": "registry:ui",
+      "registryDependencies": [],
+      "dependencies": [
+        "motion"
+      ],
+      "devDependencies": [],
+      "files": [
+        {
+          "path": "icons/ambulance.tsx",
+          "type": "registry:ui"
+        },
+        {
+          "path": "utils/base-icon.tsx",
+          "type": "registry:ui"
+        }
+      ]
+    },
+    {
+      "name": "shell",
+      "type": "registry:ui",
+      "registryDependencies": [],
+      "dependencies": [
+        "motion"
+      ],
+      "devDependencies": [],
+      "files": [
+        {
+          "path": "icons/shell.tsx",
+          "type": "registry:ui"
+        },
+        {
+          "path": "utils/base-icon.tsx",
+          "type": "registry:ui"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "air-vent",
+  "type": "registry:ui",
+  "registryDependencies": [],
+  "dependencies": [
+    "motion"
+  ],
+  "devDependencies": [],
+  "files": [
+    {
+      "path": "icons/air-vent.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "utils/base-icon.tsx",
+      "type": "registry:ui"
+    }
+  ]
+}

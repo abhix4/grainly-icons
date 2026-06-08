@@ -1,0 +1,19 @@
+{
+  "name": "align-end-horizontal",
+  "type": "registry:ui",
+  "registryDependencies": [],
+  "dependencies": [
+    "motion"
+  ],
+  "devDependencies": [],
+  "files": [
+    {
+      "path": "icons/align-end-horizontal.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "utils/base-icon.tsx",
+      "type": "registry:ui"
+    }
+  ]
+}

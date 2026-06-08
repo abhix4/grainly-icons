@@ -1,0 +1,19 @@
+{
+  "name": "airplay",
+  "type": "registry:ui",
+  "registryDependencies": [],
+  "dependencies": [
+    "motion"
+  ],
+  "devDependencies": [],
+  "files": [
+    {
+      "path": "icons/airplay.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "utils/base-icon.tsx",
+      "type": "registry:ui"
+    }
+  ]
+}

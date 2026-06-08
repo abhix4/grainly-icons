@@ -1,0 +1,19 @@
+{
+  "name": "alarm-smoke",
+  "type": "registry:ui",
+  "registryDependencies": [],
+  "dependencies": [
+    "motion"
+  ],
+  "devDependencies": [],
+  "files": [
+    {
+      "path": "icons/alarm-smoke.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "utils/base-icon.tsx",
+      "type": "registry:ui"
+    }
+  ]
+}

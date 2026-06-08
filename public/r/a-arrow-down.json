@@ -1,0 +1,19 @@
+{
+  "name": "a-arrow-down",
+  "type": "registry:ui",
+  "registryDependencies": [],
+  "dependencies": [
+    "motion"
+  ],
+  "devDependencies": [],
+  "files": [
+    {
+      "path": "icons/a-arrow-down.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "utils/base-icon.tsx",
+      "type": "registry:ui"
+    }
+  ]
+}
