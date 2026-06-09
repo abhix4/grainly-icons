@@ -1,3 +1,4 @@
+'use client'
 import IconBox from "@/components/icon-box";
 import DemoLoader from "@/components/ui/demo-loader";
 import { ICON_LIST } from "@/icons";
