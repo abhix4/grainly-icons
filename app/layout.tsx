@@ -1,7 +1,11 @@
 import type { Metadata } from "next";
-import { Bricolage_Grotesque } from "next/font/google";
+import { Bricolage_Grotesque, Geist } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/navbar";
+import { cn } from "@/lib/utils";
+import { TooltipProvider } from "@/components/ui/tooltip";
+
+const geist = Geist({subsets:['latin'],variable:'--font-sans'});
 
 const bricolage = Bricolage_Grotesque({
   variable: "--font-bricolage",
@@ -22,11 +26,12 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={`${bricolage.className} h-full antialiased`}
+      className={cn("h-full", "antialiased", bricolage.className, "font-sans", geist.variable)}
     >
       <body className="min-h-full bg-[#F3F3F2]/30 flex flex-col max-w-200 mx-auto pb-20">
         <Navbar/>
-        {children}</body>
+        <TooltipProvider>{children}</TooltipProvider>
+      </body>
     </html>
   );
 }

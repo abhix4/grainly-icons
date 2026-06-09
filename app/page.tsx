@@ -1,3 +1,4 @@
+import IconBox from "@/components/icon-box";
 import DemoLoader from "@/components/ui/demo-loader";
 import { ICON_LIST } from "@/icons";
 
@@ -34,10 +35,7 @@ export default function Page() {
       
        {
         ICON_LIST.map((icon,index) => (
-          <div key={index} className="ring ring-gray-100 hover:ring-[#5FB0E8] flex items-center justify-center flex-col py-4">
-            <icon.icon/>
-            <p className="lowercase text-gray-400 text-sm">{icon.title}</p>
-          </div>
+          <IconBox icon={icon.icon} title={icon.title} key={index}/>
         ))
        }
       </div>
