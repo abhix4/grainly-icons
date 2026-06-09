@@ -1,5 +1,7 @@
 # Grainly Icons
 
+![alt text](/public/image.png)
+
 Grainly Icons is a modern Next.js app built with React 19 and Tailwind CSS v4. It includes a custom icon registry system and a component-driven icon library under `icons/` and `components/`.
 
 ## Key Features
