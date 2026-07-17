@@ -28,7 +28,7 @@ export default function RootLayout({
       lang="en"
       className={cn("h-full", "antialiased", bricolage.className, "font-sans", geist.variable)}
     >
-      <body className="min-h-full bg-[#F3F3F2]/30 flex flex-col max-w-200 mx-auto pb-20">
+      <body className="min-h-full bg-[#F3F3F2]/30 flex flex-col max-w-200 mx-auto pb-20 px-4">
         <Navbar/>
         <TooltipProvider>{children}</TooltipProvider>
       </body>
